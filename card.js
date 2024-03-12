@@ -8,7 +8,7 @@ var seriesData = {
   },
   "serie2":{
       "name":"HOUSE OF CARDS",
-      "image":"https://www.aceprensa.com/wp-content/uploads/2015/03/1425-1.jpg",
+      "image":"https://blogs.vanguardia.com/el-colombian-dream/files/2015/03/house-of-cards-seaosn-2__1406032348151.jpg",
       "category":"De intriga",
       "description": "Frank ya no está, y Claire Underwood pisa fuerte como la primera mujer presidenta de Estados Unidos. Aunque a algunos no les guste.",
       "protagonists": "Robin Wright,Michael Kelly,Diane Lane"

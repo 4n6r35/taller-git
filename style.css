@@ -1,6 +1,10 @@
+#seriesContainer{
+    width: 90%;
+    height: 70px;
+    margin: 30px;
+}
+
 .card {
-    display: flex;
-    flex-direction: row;
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 30px;
