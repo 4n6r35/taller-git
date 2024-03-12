@@ -25,7 +25,6 @@ var seriesData = {
 
 var seriesContainer = document.getElementById("seriesContainer");
 
-// Recorrer el JSON y crear una tarjeta para cada serie
 for (var serieKey in seriesData) {
   if (seriesData.hasOwnProperty(serieKey)) {
       var serie = seriesData[serieKey];
