@@ -33,9 +33,9 @@ for (var serieKey in seriesData) {
       card.innerHTML = `
           <h2>${serie.name}</h2>
           <img src="${serie.image}" alt="${serie.name}">
-          <p><strong>Categoría:</strong> ${serie.category}</p>
-          <p><strong>Descripción:</strong> ${serie.description}</p>
-          <p><strong>Protagonistas:</strong> ${serie.protagonists}</p>
+          <p class="card-p"><strong>Categoría:</strong> ${serie.category}</p>
+          <p class="card-p"><strong>Descripción:</strong> ${serie.description}</p>
+          <p class="card-p"><strong>Protagonistas:</strong> ${serie.protagonists}</p>
       `;
       seriesContainer.appendChild(card);
   }
